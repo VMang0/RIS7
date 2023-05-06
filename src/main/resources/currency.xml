@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<currency-rates>
+    <currency>
+        <name>Доллар США</name>
+        <code>USD</code>
+        <rate>0,34</rate>
+    </currency>
+    <currency>
+        <name>Евро</name>
+        <code>EUR</code>
+        <rate>0,31</rate>
+    </currency>
+    <currency>
+        <name>Британский фунт стерлингов</name>
+        <code>GBP</code>
+        <rate>1.42</rate>
+    </currency>
+    <currency>
+        <name>Японская иена</name>
+        <code>JPY</code>
+        <rate>46,7</rate>
+    </currency>
+    <currency>
+        <name>Китайский юань</name>
+        <code>CNY</code>
+        <rate>2,46</rate>
+    </currency>
+    <currency>
+        <name>Швейцарский франк</name>
+        <code>CHF</code>
+        <rate>0,31</rate>
+    </currency>
+    <currency>
+        <name>Польский злотый</name>
+        <code>PLN</code>
+        <rate>1,44</rate>
+    </currency>
+    <currency>
+        <name>Казахстанский тенге</name>
+        <code>KZT</code>
+        <rate>154,19</rate>
+    </currency>
+    <currency>
+        <name>Российский рубль</name>
+        <code>RUB</code>
+        <rate>27,3</rate>
+    </currency>
+    <currency>
+        <name>Украинская гривна</name>
+        <code>UAH</code>
+        <rate>12,8</rate>
+    </currency>
+</currency-rates>
